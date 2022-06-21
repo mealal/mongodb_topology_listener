@@ -1,5 +1,4 @@
 from pprint import pprint
-from xxlimited import new
 import pymongo
 import argparse
 import time
